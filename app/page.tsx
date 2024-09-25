@@ -13,7 +13,7 @@ export default function ComingSoonPage() {
             COMING
           </p>
         </div>
-        <div className="-ml-4 md:ml-0">
+        <div className="-ml-2 md:ml-0">
           <h1 className="text-white text-[90px] md:text-[160px] font-bold !leading-0">
             SOON
           </h1>
